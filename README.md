@@ -1,0 +1,2 @@
+# dataStract
+ADT
